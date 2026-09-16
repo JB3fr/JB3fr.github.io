@@ -8,7 +8,7 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXH2-QCZfYOiF1KfN6j_QhbYz4j_8EEUzKdED8AEDQi0LdSe52DDPgUFu:https://upload.wikimedia.org/wikipedia/commons/5/57/M31-Andromede-16-09-2023-Hamois.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Doriginal&s=10);
   margin: 20px;
   border-radius: 15px;
   border: 5px solid rgba(118, 0, 233, 0.375);
